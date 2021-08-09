@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "all_of_bugs:block/bug_alleviatlas_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "all_of_bugs:block/bug_alleviatlas_log"
+    },
+    "axis=z": {
+      "model": "all_of_bugs:block/bug_alleviatlas_log",
+      "x": 90
+    }
+  }
+}

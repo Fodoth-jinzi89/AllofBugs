@@ -1,0 +1,11 @@
+{
+  "_fv": 23,
+  "_type": "tab",
+  "definition": {
+    "name": "All Of Bugs",
+    "icon": {
+      "value": "CUSTOM:AllOfBugsIcon"
+    },
+    "showSearch": false
+  }
+}

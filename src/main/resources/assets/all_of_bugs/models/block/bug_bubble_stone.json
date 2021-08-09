@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "all_of_bugs:blocks/bubble_stone_bottom",
+    "up": "all_of_bugs:blocks/bubble_stone_top",
+    "north": "all_of_bugs:blocks/bug_bubble_stone",
+    "east": "all_of_bugs:blocks/bug_bubble_stone",
+    "south": "all_of_bugs:blocks/bug_bubble_stone",
+    "west": "all_of_bugs:blocks/bug_bubble_stone",
+    "particle": "all_of_bugs:blocks/bubble_stone_bottom"
+  }
+}

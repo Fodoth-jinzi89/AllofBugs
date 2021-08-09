@@ -1,0 +1,42 @@
+{
+  "_fv": 23,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "bug_feather_of_wind",
+    "customModelName": "Normal",
+    "name": "Feather Of Wind",
+    "specialInfo": [
+      "Bug.¡ìc010"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AllOfBugs"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": ""
+    },
+    "hasGlow": true,
+    "glowCondition": {
+      "name": "FeatherOfWindShiWuPinFaGuang"
+    },
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.0,
+    "bulletDamage": 0.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:AllOfBugsIcon"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

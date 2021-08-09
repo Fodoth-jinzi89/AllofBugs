@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "all_of_bugs:blocks/bug_iron_storage",
+    "particle": "all_of_bugs:blocks/bug_iron_storage"
+  }
+}

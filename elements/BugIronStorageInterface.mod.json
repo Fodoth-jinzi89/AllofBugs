@@ -1,0 +1,101 @@
+{
+  "_fv": 23,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.IRON_INGOT"
+          },
+          "color": {
+            "value": -16750849,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #0",
+          "x": 150,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -39424,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #1",
+          "x": 150,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "´æ´¢µÄÌú¶§£º",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "´æ´¢µÄÌú¶§£º",
+          "x": 213,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<BNBT:text:fStorage>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "<BNBT:text:fStorage>",
+          "x": 213,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": " ",
+          "onClick": {
+            "name": "BugIronStorageButton"
+          },
+          "width": 6,
+          "height": 20,
+          "name": " ",
+          "x": 184,
+          "y": 74
+        }
+      }
+    ],
+    "onOpen": {
+      "name": "BugIronStorageFangZhiFangKuaiShi"
+    },
+    "onTick": {
+      "name": "BugIronStorageGengXinYouXiKe"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

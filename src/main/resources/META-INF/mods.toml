@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License version 2 (GPLv2)"
+
+[[mods]]
+modId="all_of_bugs"
+version="1.0.0"
+displayName="All of Bugs"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://afdian.net/@jinzi89"
+authors="Fodoth_jinzi89, MCreator"
+description='''
+Collection of bugs made by amateur users of MCreator. 
+'''
+
+[[dependencies.all_of_bugs]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

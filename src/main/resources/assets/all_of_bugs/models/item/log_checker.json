@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "all_of_bugs:items/log_checker"
+  }
+}

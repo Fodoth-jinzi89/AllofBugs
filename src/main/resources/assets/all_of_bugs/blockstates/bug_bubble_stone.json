@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "all_of_bugs:block/bug_bubble_stone"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "all_of_bugs:blocks/bug_seed_bag",
+    "particle": "all_of_bugs:blocks/bug_seed_bag"
+  }
+}

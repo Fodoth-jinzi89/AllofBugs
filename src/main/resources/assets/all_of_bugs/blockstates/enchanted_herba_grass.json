@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "all_of_bugs:block/enchanted_herba_grass"
+    }
+  }
+}

@@ -1,0 +1,1757 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "GodSlayerThunder",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "god_slayer_thunder",
+      "path": "~/1.Iterator"
+    },
+    {
+      "name": "AllOfBugsIcon",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "all_of_bugs_icon"
+    },
+    {
+      "name": "AllOfBugs",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "all_of_bugs"
+    },
+    {
+      "name": "GodSlayerThunderDangShiTiHuiDongWuPinShi",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "god_slayer_thunder_dang_shi_ti_hui_dong_wu_pin_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/1.Iterator"
+    },
+    {
+      "name": "BugGodSlayerThunder",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_god_slayer_thunder",
+      "path": "~/1.Iterator"
+    },
+    {
+      "name": "BugGodSlayerThunderDangShiTiHuiDongWuPinShi",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_god_slayer_thunder_dang_shi_ti_hui_dong_wu_pin_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/1.Iterator"
+    },
+    {
+      "name": "LuckyLeaf",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_leaf",
+      "path": "~/2.Random"
+    },
+    {
+      "name": "BugLuckyLeaf",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_lucky_leaf",
+      "path": "~/2.Random"
+    },
+    {
+      "name": "LuckyLeafDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_leaf_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/2.Random"
+    },
+    {
+      "name": "BugLuckyLeafDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_lucky_leaf_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/2.Random"
+    },
+    {
+      "name": "AlleviatlasLog",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alleviatlas_log",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "AlleviatlasLeaves",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alleviatlas_leaves",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "EnchantedHerbaGrass",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enchanted_herba_grass",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "Alleviatlas",
+      "type": "biome",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alleviatlas",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "DirtBlocks",
+      "type": "tag",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_blocks",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_blocks",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leave_blocks",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "BugAlleviatlasLog",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_alleviatlas_log",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "BugAlleviatlasLeaves",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_alleviatlas_leaves",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "BugEnchantedHerbaGrass",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_enchanted_herba_grass",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "BugAlleviatlas",
+      "type": "biome",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_alleviatlas",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "LogCheckerDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_checker_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "LogChecker",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_checker",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "TorchCounter",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "torch_counter",
+      "path": "~/4.Math"
+    },
+    {
+      "name": "TorchCounterDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "torch_counter_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/4.Math"
+    },
+    {
+      "name": "BugTorchCounter",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_torch_counter",
+      "path": "~/4.Math"
+    },
+    {
+      "name": "BugTorchCounterDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_torch_counter_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/4.Math"
+    },
+    {
+      "name": "RecallCompassDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recall_compass_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/5.NBT"
+    },
+    {
+      "name": "RecallCompassShiWuPinFaGuang",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recall_compass_shi_wu_pin_fa_guang",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/5.NBT"
+    },
+    {
+      "name": "RecallCompass",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "recall_compass",
+      "path": "~/5.NBT"
+    },
+    {
+      "name": "BugLogChecker",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_log_checker",
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "BugLogCheckerDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_log_checker_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/3.Tag"
+    },
+    {
+      "name": "BugRecallCompass",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "bug_recall_compass",
+      "path": "~/5.NBT"
+    },
+    {
+      "name": "BugRecallCompassDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_recall_compass_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/5.NBT"
+    },
+    {
+      "name": "BugRecallCompassShiWuPinFaGuang",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_recall_compass_shi_wu_pin_fa_guang",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/5.NBT"
+    },
+    {
+      "name": "HelloSpirit",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hello_spirit",
+      "path": "~/6.Chinese"
+    },
+    {
+      "name": "BugHelloSpirit",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_hello_spirit",
+      "path": "~/6.Chinese"
+    },
+    {
+      "name": "HelloSpiritEnterWorld",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hello_spirit_enter_world",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/6.Chinese"
+    },
+    {
+      "name": "BugHelloSpiritEnterWorld",
+      "type": "procedure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_hello_spirit_enter_world",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/6.Chinese"
+    },
+    {
+      "name": "GoldenArmorSummoner",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_armor_summoner",
+      "path": "~/7.Armor"
+    },
+    {
+      "name": "GoldenArmorSummonerDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_armor_summoner_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/7.Armor"
+    },
+    {
+      "name": "BugGoldenArmorSummoner",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_golden_armor_summoner",
+      "path": "~/7.Armor"
+    },
+    {
+      "name": "BugGoldenArmorSummonerDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_golden_armor_summoner_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/7.Armor"
+    },
+    {
+      "name": "TimeBomb",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "time_bomb",
+      "path": "~/8.Integer"
+    },
+    {
+      "name": "BugTimeBomb",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_time_bomb",
+      "path": "~/8.Integer"
+    },
+    {
+      "name": "TimeBombDangWuPinYouWanJiaDiaoLuo",
+      "type": "procedure",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "time_bomb_dang_wu_pin_you_wan_jia_diao_luo",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/8.Integer"
+    },
+    {
+      "name": "TimeBombWork",
+      "type": "procedure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "time_bomb_work",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/8.Integer"
+    },
+    {
+      "name": "BugTimeBombDangWuPinYouWanJiaDiaoLuo",
+      "type": "procedure",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "bug_time_bomb_dang_wu_pin_you_wan_jia_diao_luo",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/8.Integer"
+    },
+    {
+      "name": "BugTimeBombWork",
+      "type": "procedure",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_time_bomb_work",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/8.Integer"
+    },
+    {
+      "name": "IronStorage",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_storage",
+      "path": "~/9.TileEntity"
+    },
+    {
+      "name": "IronStorageInterface",
+      "type": "gui",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_storage_interface",
+      "path": "~/9.TileEntity"
+    },
+    {
+      "name": "IronStorageFangZhiFangKuaiShi",
+      "type": "procedure",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_storage_fang_zhi_fang_kuai_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/9.TileEntity"
+    },
+    {
+      "name": "IronStorageGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_storage_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/9.TileEntity"
+    },
+    {
+      "name": "IronStorageButton",
+      "type": "procedure",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_storage_button",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/9.TileEntity"
+    },
+    {
+      "name": "BugIronStorage",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_iron_storage",
+      "path": "~/9.TileEntity"
+    },
+    {
+      "name": "BugIronStorageInterface",
+      "type": "gui",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_iron_storage_interface",
+      "path": "~/9.TileEntity"
+    },
+    {
+      "name": "BugIronStorageFangZhiFangKuaiShi",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_iron_storage_fang_zhi_fang_kuai_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/9.TileEntity"
+    },
+    {
+      "name": "BugIronStorageGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_iron_storage_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/9.TileEntity"
+    },
+    {
+      "name": "BugIronStorageButton",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_iron_storage_button",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/9.TileEntity"
+    },
+    {
+      "name": "FeatherOfWindShiWuPinFaGuang",
+      "type": "procedure",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "feather_of_wind_shi_wu_pin_fa_guang",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/10.Return"
+    },
+    {
+      "name": "FeatherOfWindKeYiShiYongYuanChengWuPinDeTiaoJian",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "feather_of_wind_ke_yi_shi_yong_yuan_cheng_wu_pin_de_tiao_jian",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "duration",
+            "type": "number"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/10.Return"
+    },
+    {
+      "name": "FeatherOfWind",
+      "type": "rangeditem",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "feather_of_wind",
+      "path": "~/10.Return"
+    },
+    {
+      "name": "BugFeatherOfWind",
+      "type": "rangeditem",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_feather_of_wind",
+      "path": "~/10.Return"
+    },
+    {
+      "name": "BugFeatherOfWindShiWuPinFaGuang",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_feather_of_wind_shi_wu_pin_fa_guang",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": []
+      },
+      "path": "~/10.Return"
+    },
+    {
+      "name": "BugFeatherOfWindKeYiShiYongYuanChengWuPinDeTiaoJian",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_feather_of_wind_ke_yi_shi_yong_yuan_cheng_wu_pin_de_tiao_jian",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "duration",
+            "type": "number"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/10.Return"
+    },
+    {
+      "name": "SeedBagZuZhiYouXiaoDeFangZhiTiaoJian",
+      "type": "procedure",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seed_bag_zu_zhi_you_xiao_de_fang_zhi_tiao_jian",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/11.RightClick"
+    },
+    {
+      "name": "SeedBag",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seed_bag",
+      "path": "~/11.RightClick"
+    },
+    {
+      "name": "SeedBagZaiFangKuaiShangYouJian",
+      "type": "procedure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seed_bag_zai_fang_kuai_shang_you_jian",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/11.RightClick"
+    },
+    {
+      "name": "BugSeedBag",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_seed_bag",
+      "path": "~/11.RightClick"
+    },
+    {
+      "name": "BugSeedBagZaiFangKuaiShangYouJian",
+      "type": "procedure",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_seed_bag_zai_fang_kuai_shang_you_jian",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/11.RightClick"
+    },
+    {
+      "name": "BugSeedBagZuZhiYouXiaoDeFangZhiTiaoJian",
+      "type": "procedure",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_seed_bag_zu_zhi_you_xiao_de_fang_zhi_tiao_jian",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/11.RightClick"
+    },
+    {
+      "name": "BubbleStone",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bubble_stone",
+      "path": "~/12.Display"
+    },
+    {
+      "name": "BubbleStoneKeHuDuanXianShiSuiJiKe",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bubble_stone_ke_hu_duan_xian_shi_sui_ji_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/12.Display"
+    },
+    {
+      "name": "BugBubbleStone",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_bubble_stone",
+      "path": "~/12.Display"
+    },
+    {
+      "name": "BugBubbleStoneKeHuDuanXianShiSuiJiKe",
+      "type": "procedure",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_bubble_stone_ke_hu_duan_xian_shi_sui_ji_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/12.Display"
+    },
+    {
+      "name": "RoadChickenDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "road_chicken_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/13.Loop"
+    },
+    {
+      "name": "RoadChicken",
+      "type": "item",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "road_chicken",
+      "path": "~/13.Loop"
+    },
+    {
+      "name": "BugRoadChicken",
+      "type": "item",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_road_chicken",
+      "path": "~/13.Loop"
+    },
+    {
+      "name": "BugRoadChickenDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_road_chicken_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/13.Loop"
+    },
+    {
+      "name": "PearlFish",
+      "type": "item",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearl_fish",
+      "path": "~/14.Name"
+    },
+    {
+      "name": "PearlFishWork",
+      "type": "procedure",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearl_fish_work",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/14.Name"
+    },
+    {
+      "name": "BugPearlFish",
+      "type": "item",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_pearl_fish",
+      "path": "~/14.Name"
+    },
+    {
+      "name": "BugPearlFishWork",
+      "type": "procedure",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bug_pearl_fish_work",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/14.Name"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.all_of_bugs.bug_hello_spirit": "Hello Spirit",
+      "block.all_of_bugs.iron_storage": "Iron Storage",
+      "item.all_of_bugs.recall_compass": "Recall Compass",
+      "item.all_of_bugs.golden_armor_summoner": "Golden Armor Summoner",
+      "block.all_of_bugs.bug_alleviatlas_leaves": "Alleviatlas Leaves",
+      "item.all_of_bugs.road_chicken": "Road Chicken",
+      "block.all_of_bugs.enchanted_herba_grass": "Enchanted Herba Grass",
+      "item.all_of_bugs.lucky_leaf": "Lucky Leaf",
+      "item.all_of_bugs.time_bomb": "Time Bomb",
+      "block.all_of_bugs.bug_bubble_stone": "Bubble Stone",
+      "item.all_of_bugs.log_checker": "Log Checker",
+      "item.all_of_bugs.bug_pearl_fish": "Pearl Fish",
+      "block.all_of_bugs.bubble_stone": "Bubble Stone",
+      "block.all_of_bugs.alleviatlas_leaves": "Alleviatlas Leaves",
+      "machine.allofbugs.iron_storage.name": "Iron storage:",
+      "msg.allofbugs.hellospirit.0": "\u0027s Hello Spirit: Hello everyone!",
+      "block.all_of_bugs.alleviatlas_log": "Alleviatlas Log",
+      "item.all_of_bugs.bug_road_chicken": "Road Chicken",
+      "item.all_of_bugs.hello_spirit": "Hello Spirit",
+      "biome.all_of_bugs.bug_alleviatlas": "Alleviatlas",
+      "item.all_of_bugs.bug_lucky_leaf": "Lucky Leaf",
+      "biome.all_of_bugs.alleviatlas": "Alleviatlas",
+      "item.all_of_bugs.bug_god_slayer_thunder": "God Slayer Thunder",
+      "item.all_of_bugs.bug_recall_compass": "Recall Compass",
+      "item.all_of_bugs.bug_golden_armor_summoner": "Golden Armor Summoner",
+      "item.all_of_bugs.feather_of_wind": "Feather Of Wind",
+      "itemGroup.taball_of_bugs": "All Of Bugs",
+      "block.all_of_bugs.bug_alleviatlas_log": "Alleviatlas Log",
+      "block.all_of_bugs.bug_iron_storage": "Iron Storage",
+      "item.all_of_bugs.god_slayer_thunder": "God Slayer Thunder",
+      "item.all_of_bugs.bug_feather_of_wind": "Feather Of Wind",
+      "block.all_of_bugs.bug_enchanted_herba_grass": "Enchanted Herba Grass",
+      "item.all_of_bugs.all_of_bugs_icon": "All Of Bugs Icon",
+      "block.all_of_bugs.bug_seed_bag": "Seed Bag",
+      "item.all_of_bugs.pearl_fish": "Pearl Fish",
+      "block.all_of_bugs.seed_bag": "Seed Bag",
+      "item.all_of_bugs.bug_log_checker": "Log Checker",
+      "item.all_of_bugs.bug_torch_counter": "Torch Counter",
+      "item.all_of_bugs.bug_time_bomb": "Time Bomb",
+      "item.all_of_bugs.torch_counter": "Torch Counter"
+    },
+    "zh_cn": {
+      "item.all_of_bugs.bug_hello_spirit": "ÎÊºò¾«Áé",
+      "block.all_of_bugs.iron_storage": "Ìú¶§Ïä",
+      "item.all_of_bugs.recall_compass": "×·ÒäÂÞÅÌ",
+      "item.all_of_bugs.golden_armor_summoner": "»Æ½ð°ü¸²Õß",
+      "block.all_of_bugs.bug_alleviatlas_leaves": "ç£Ì´Ê÷Ò¶",
+      "item.all_of_bugs.road_chicken": "´îÂ·¼¦",
+      "block.all_of_bugs.enchanted_herba_grass": "Ä¾Ö®ÔÌÄ§²ÝµØ",
+      "item.all_of_bugs.lucky_leaf": "ÐÒÔËÒ¶",
+      "item.all_of_bugs.time_bomb": "¶¨Ê±Õ¨µ¯",
+      "block.all_of_bugs.bug_bubble_stone": "ÅÝÅÝÊ¯",
+      "item.all_of_bugs.log_checker": "Ô­Ä¾¼ì²âÆ÷",
+      "item.all_of_bugs.bug_pearl_fish": "ÊÈÖéÓã",
+      "block.all_of_bugs.bubble_stone": "ÅÝÅÝÊ¯",
+      "block.all_of_bugs.alleviatlas_leaves": "ç£Ì´Ê÷Ò¶",
+      "machine.allofbugs.iron_storage.name": "´æ´¢µÄÌú¶§£º",
+      "msg.allofbugs.hellospirit.0": "µÄÎÊºò¾«ÁéÏò´ó¼ÒÎÊºÃ£¡",
+      "block.all_of_bugs.alleviatlas_log": "ç£Ì´Ô­Ä¾",
+      "item.all_of_bugs.bug_road_chicken": "´îÂ·¼¦",
+      "item.all_of_bugs.hello_spirit": "ÎÊºò¾«Áé",
+      "biome.all_of_bugs.bug_alleviatlas": "ç£",
+      "item.all_of_bugs.bug_lucky_leaf": "ÐÒÔËÒ¶",
+      "biome.all_of_bugs.alleviatlas": "ç£",
+      "item.all_of_bugs.bug_god_slayer_thunder": "ß±ÉñÖ®À×",
+      "item.all_of_bugs.bug_recall_compass": "×·ÒäÂÞÅÌ",
+      "item.all_of_bugs.bug_golden_armor_summoner": "»Æ½ð°ü¸²Õß",
+      "item.all_of_bugs.feather_of_wind": "·çÖ®ÓðÃ«",
+      "itemGroup.taball_of_bugs": "Bug¼¯½õ",
+      "block.all_of_bugs.bug_alleviatlas_log": "ç£Ì´Ô­Ä¾",
+      "block.all_of_bugs.bug_iron_storage": "Ìú¶§Ïä",
+      "item.all_of_bugs.god_slayer_thunder": "ß±ÉñÖ®À×",
+      "item.all_of_bugs.bug_feather_of_wind": "·çÖ®ÓðÃ«",
+      "block.all_of_bugs.bug_enchanted_herba_grass": "Ä¾Ö®ÔÌÄ§²ÝµØ",
+      "item.all_of_bugs.all_of_bugs_icon": "¿ÉÒÉµÄÉúÃüÌå",
+      "block.all_of_bugs.bug_seed_bag": "ÖÖ×Ó´ü",
+      "item.all_of_bugs.pearl_fish": "ÊÈÖéÓã",
+      "block.all_of_bugs.seed_bag": "ÖÖ×Ó´ü",
+      "item.all_of_bugs.bug_log_checker": "Ô­Ä¾¼ì²âÆ÷",
+      "item.all_of_bugs.bug_torch_counter": "»ð°ÑÍ³¼ÆÆ÷",
+      "item.all_of_bugs.bug_time_bomb": "¶¨Ê±Õ¨µ¯",
+      "item.all_of_bugs.torch_counter": "»ð°ÑÍ³¼ÆÆ÷"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "1.Iterator",
+        "children": []
+      },
+      {
+        "name": "2.Random",
+        "children": []
+      },
+      {
+        "name": "3.Tag",
+        "children": []
+      },
+      {
+        "name": "4.Math",
+        "children": []
+      },
+      {
+        "name": "5.NBT",
+        "children": []
+      },
+      {
+        "name": "6.Chinese",
+        "children": []
+      },
+      {
+        "name": "7.Armor",
+        "children": []
+      },
+      {
+        "name": "8.Integer",
+        "children": []
+      },
+      {
+        "name": "9.TileEntity",
+        "children": []
+      },
+      {
+        "name": "10.Return",
+        "children": []
+      },
+      {
+        "name": "11.RightClick",
+        "children": []
+      },
+      {
+        "name": "12.Display",
+        "children": []
+      },
+      {
+        "name": "13.Loop",
+        "children": []
+      },
+      {
+        "name": "14.Name",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "all_of_bugs",
+    "modName": "All of Bugs",
+    "version": "1.0.0",
+    "description": "Collection of bugs made by amateur users of MCreator. ",
+    "author": "Fodoth_jinzi89, MCreator",
+    "websiteURL": "https://afdian.net/@jinzi89",
+    "license": "GNU General Public License version 2 (GPLv2)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.fodoth.skina.allofbugs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100231709
+}

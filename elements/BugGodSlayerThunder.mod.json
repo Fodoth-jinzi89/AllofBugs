@@ -1,0 +1,39 @@
+{
+  "_fv": 23,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "bug_godslayer_thunder",
+    "customModelName": "Normal",
+    "name": "God Slayer Thunder",
+    "rarity": "RARE",
+    "creativeTab": {
+      "value": "CUSTOM:AllOfBugs"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 5,
+    "toolType": 1.0,
+    "damageCount": 10,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Bug.¡ìc001"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onEntitySwing": {
+      "name": "BugGodSlayerThunderDangShiTiHuiDongWuPinShi"
+    },
+    "hasDispenseBehavior": false
+  }
+}
